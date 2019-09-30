@@ -1,0 +1,42 @@
+C:\Code\dotNet\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
+C:\Code\dotNet\FileMerger\FileMerger\bin\Debug\FileMerger.exe
+C:\Code\dotNet\FileMerger\FileMerger\bin\Debug\FileMerger.pdb
+C:\Code\dotNet\FileMerger\FileMerger\bin\Debug\en-ZA\FileMerger.resources.dll
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.Interface.resources
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.ProgressWindow.resources
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.Properties.Resources.resources
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.Interface.en-ZA.resources
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.GenerateResource.cache
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.CoreCompileInputs.cache
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\en-ZA\FileMerger.resources.dll
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.exe
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.pdb
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\bin\Debug\FileMerger.exe
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\bin\Debug\FileMerger.pdb
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\bin\Debug\en-ZA\FileMerger.resources.dll
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.csprojResolveAssemblyReference.cache
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.Interface.resources
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.ProgressWindow.resources
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.Properties.Resources.resources
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.Interface.en-ZA.resources
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.GenerateResource.cache
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.CoreCompileInputs.cache
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\en-ZA\FileMerger.resources.dll
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.exe
+C:\Code\dotNet\__Backups\FileMerger-version 2 stage 1\FileMerger\FileMerger\obj\Debug\FileMerger.pdb
+C:\Code\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.csprojAssemblyReference.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\bin\Debug\FileMerger.exe.config
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\bin\Debug\FileMerger.exe
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\bin\Debug\FileMerger.pdb
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\bin\Debug\en-ZA\FileMerger.resources.dll
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.csprojAssemblyReference.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.Interface.resources
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.ProgressWindow.resources
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.Properties.Resources.resources
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.Interface.en-ZA.resources
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.GenerateResource.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.csproj.CoreCompileInputs.cache
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\en-ZA\FileMerger.resources.dll
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.exe
+C:\Users\Robbie\OneDrive\work backup\dotNet\FileMerger\FileMerger\obj\Debug\FileMerger.pdb
